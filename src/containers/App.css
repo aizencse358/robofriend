@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Spongeboy Me Bob Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Spongeboy Me Bob Regular'), url('Spongeboy Me Bob.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+h1{
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 200;
+	color: #0ccac4;
+}
